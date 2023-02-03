@@ -21,8 +21,6 @@ This book covers the following exciting features:
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1803230304) today!
 
-<img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" alt="https://www.packtpub.com/" border="5" />
-
 **Following is what you need for this book:**
 This book is for practicing embedded systems and IoT developers, electronics and automation technicians, STEM technical educators, students, and hobbyists looking to learn about the ESP32 microcontroller and M5Stack technologies. There is no prerequisite – apart from a desire to learn about ESP32-based electronics and interactive devices, then this book is for you.
 
