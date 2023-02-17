@@ -43,3 +43,8 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 **Dr. Don Wilcher**
 is an Electrical Engineer, Engineering-Technical Education Educator, Embedded Systems Lecturer and Electronics book author. He has worked on plant industrial robotics, control systems, and designed automotive interior electronic systems and consumer appliances when employed at General Motors, Chrysler Corporation, Usui International Corporation, and Sumitomo Wiring Systems since 1986. While employed at Hunter Fan, he researched and developed LED light fixtures and wireless motor controls as well as an electronics control unit to reduce 300 watts of lighting power to 180 watts without a noticeable drop in illumination. He was also the former Department Chair for the School of Electronics Technology of ITT Technical Institute at the Madison, AL campus.
 Dr. Don Wilcher has a bachelor’s degree in Electrical Engineering from Wayne State University, and Master of Science in Education Innovation and Technology (Graduation with Distinguish), and Doctor of Education degrees, both from Capella University.
+
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781803230306">https://packt.link/free-ebook/9781803230306 </a> </p>
